@@ -1,0 +1,197 @@
+TpkmBinauralizer
+v7
+r0
+t323095645.703598
+cCheck dependencies
+cProcessPCH++ /var/folders/8Z/8Z0GF7oTHzuq9dfBgNCLu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pkmBinauralizer_Prefix-cxfawfjffuxgwhglzvclkorisyqz/pkmBinauralizer_Prefix.pch.gch pkmBinauralizer_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/Objects-normal/x86_64/pkmBinauralizer.o /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/Objects-normal/x86_64/pkmIRCAM_HRTF_DATABASE.o /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/../src/ann/ANN.h
+c000000004B60C0C20000000000008B2C
+t1264632002
+s35628
+i<cstdlib>
+i<cmath>
+i<iostream>
+i<cstring>
+i<cvalues>
+i<climits>
+i<cfloat>
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/../src/ann/libANN.a
+c000000004D90C5C2000000000001BE48
+t1301333442
+s114248
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/../src/pkmIRCAM_HRTF_DATABASE.cpp
+c000000004D91D0D800000000001E81EC
+t1301401816
+s1999340
+i"pkmIRCAM_HRTF_DATABASE.h"
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/../src/pkmIRCAM_HRTF_DATABASE.h
+c000000004D910F5A0000000000000D02
+t1301352282
+s3330
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/ann/ANN.h
+c000000004B60C0C20000000000008B2C
+t1264632002
+s35628
+i<cstdlib>
+i<cmath>
+i<iostream>
+i<cstring>
+i<cvalues>
+i<climits>
+i<cfloat>
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/ann/libANN.a
+c000000004D90C5C2000000000001BE48
+t1301333442
+s114248
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/Debug/libpkmBinauralizer.dylib
+t2
+s0
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/Objects-normal/x86_64/libpkmBinauralizer.LinkFileList
+c000000004D91D4DB0000000000000141
+t1301402843
+s321
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/Objects-normal/x86_64/pkmBinauralizer.o
+t2
+s0
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/Objects-normal/x86_64/pkmIRCAM_HRTF_DATABASE.o
+t2
+s0
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp
+c000000004D91D28D00000000000013B5
+t1301402253
+s5045
+i"pkmBinauralizer.h"
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.h
+c000000004D91D2D800000000000006D6
+t1301402328
+s1750
+i"pkmIRCAM_HRTF_DATABASE.h"
+i"ANN.h"
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer_Prefix.pch
+c000000004D90C7480000000000000084
+t1301333832
+s132
+i<iostream>
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp
+c000000004D91D0D800000000001E81EC
+t1301401816
+s1999340
+i"pkmIRCAM_HRTF_DATABASE.h"
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.h
+c000000004D910F5A0000000000000D02
+t1301352282
+s3330
+
+N/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/src/pkmIRCAM_HRTF_DATABASE.h
+c000000004D910F5A0000000000000D02
+t1301352282
+s3330
+
+N/var/folders/8Z/8Z0GF7oTHzuq9dfBgNCLu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pkmBinauralizer_Prefix-cxfawfjffuxgwhglzvclkorisyqz/pkmBinauralizer_Prefix.pch.gch
+t1301402845
+s19804720
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323095643#323095643#0(0"0(0#1#0"8618708544#0"0#
+
+CCompileC build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/Objects-normal/x86_64/pkmBinauralizer.o /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s323095645.121073
+e323095645.217977
+r0
+xCompileC
+xbuild/pkmBinauralizer.build/Debug/pkmBinauralizer.build/Objects-normal/x86_64/pkmBinauralizer.o
+x/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.h:12,
+o                 from /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:8:
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.h:81: error: expected unqualified-id before '[' token
+oIn file included from /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:8:
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.h:49: error: 'ircam_hrtf_filter_set' does not name a type
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:10: error: return type specification for constructor invalid
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:22: error: return type specification for destructor invalid
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:47: error: no 'void pkmBinauralizer::initializeFilters()' member function declared in class 'pkmBinauralizer'
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp: In member function 'void pkmBinauralizer::initializeKDTree()':
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:89: error: 'positions' is not a member of 'pkmHRTF'
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:81: warning: unused variable 'dim'
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:82: warning: unused variable 'eps'
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:83: warning: unused variable 'maxPts'
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp: In member function 'void pkmBinauralizer::updateNearestFilters(double, double, double)':
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:104: error: 'eps' was not declared in this scope
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:113: error: 'irc_1037' is not a member of 'pkmHRTF'
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:114: error: 'vDSP_vsmul' was not declared in this scope
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:115: error: 'irc_1037' is not a member of 'pkmHRTF'
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:117: error: 'irc_1037' is not a member of 'pkmHRTF'
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:119: error: 'irc_1037' is not a member of 'pkmHRTF'
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:121: error: 'irc_1037' is not a member of 'pkmHRTF'
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:123: error: 'irc_1037' is not a member of 'pkmHRTF'
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:127: error: 'vDSP_vadd' was not declared in this scope
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp: In member function 'void pkmBinauralizer::binauralize(float*, float*, float*)':
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:137: error: 'vDSP_conv' was not declared in this scope
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:140: error: 'vDSP_vadd' was not declared in this scope
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:142: error: 'swap' was not declared in this scope
+lSLF07#2@87"Compile /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095645#323095645#0(3606"In file included from /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.h:12,                 from /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:8:/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.h:81: error: expected unqualified-id before '[' tokenIn file included from /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:8:/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.h:49: error: 'ircam_hrtf_filter_set' does not name a type/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:10: error: return type specification for constructor invalid/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:22: error: return type specification for destructor invalid/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:47: error: no 'void pkmBinauralizer::initializeFilters()' member function declared in class 'pkmBinauralizer'/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp: In member function 'void pkmBinauralizer::initializeKDTree()':/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:89: error: 'positions' is not a member of 'pkmHRTF'/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:81: warning: unused variable 'dim'/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:82: warning: unused variable 'eps'/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:83: warning: unused variable 'maxPts'/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp: In member function 'void pkmBinauralizer::updateNearestFilters(double, double, double)':/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:104: error: 'eps' was not declared in this scope/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:113: error: 'irc_1037' is not a member of 'pkmHRTF'/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:114: error: 'vDSP_vsmul' was not declared in this scope/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:115: error: 'irc_1037' is not a member of 'pkmHRTF'/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:117: error: 'irc_1037' is not a member of 'pkmHRTF'/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:119: error: 'irc_1037' is not a member of 'pkmHRTF'/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:121: error: 'irc_1037' is not a member of 'pkmHRTF'/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:123: error: 'irc_1037' is not a member of 'pkmHRTF'/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:127: error: 'vDSP_vadd' was not declared in this scope/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp: In member function 'void pkmBinauralizer::binauralize(float*, float*, float*)':/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:137: error: 'vDSP_conv' was not declared in this scope/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:140: error: 'vDSP_vadd' was not declared in this scope/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp:142: error: 'swap' was not declared in this scope21(4@40"Expected unqualified-id before '[' token323095645#210#138#3(7@101"In file included from /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095645#18446744073709551615#0#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#8#0#8#0#0"0(7@100"In file included from /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.h323095645#18446744073709551615#0#0(6@78"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.h323095128#12#0#12#0#0"0(13@129"Expected unqualified-id before '[' token in /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.h323095645#18446744073709551615#0#0(6@85"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.h323045082#81#0#81#0#0"0(6@85"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.h323045082#81#0#81#0#19"expected * before *0(4@44"'ircam_hrtf_filter_set' does not name a type323095645#453#135#2(7@101"In file included from /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095645#18446744073709551615#0#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#8#0#8#0#0"0(13@126"'ircam_hrtf_filter_set' does not name a type in /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.h323095645#18446744073709551615#0#0(6@78"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.h323095128#49#0#49#0#0"0(6@78"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.h323095128#49#0#49#0#24"'*' does not name a type0(4@49"Return type specification for constructor invalid323095645#588#141#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#10#0#10#0#0"0(4@48"Return type specification for destructor invalid323095645#729#140#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#22#0#22#0#0"0(4@98"No 'void pkmBinauralizer::initializeFilters()' member function declared in class 'pkmBinauralizer'323095645#869#190#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#47#0#47#0#0"0(4@40"'positions' is not a member of 'pkmHRTF'323095645#1203#132#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#89#0#89#0#0"0(22@21"Unused variable 'dim'323095645#1335#115#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#81#0#81#0#19"unused variable '*'0(22@21"Unused variable 'eps'323095645#1450#115#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#82#0#82#0#19"unused variable '*'0(22@24"Unused variable 'maxPts'323095645#1565#118#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#83#0#83#0#19"unused variable '*'0(4@36"'eps' was not declared in this scope323095645#1853#129#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#104#0#104#0#34"'*' was not declared in this scope0(4@39"'irc_1037' is not a member of 'pkmHRTF'323095645#1982#132#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#113#0#113#0#0"0(4@43"'vDSP_vsmul' was not declared in this scope323095645#2114#136#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#114#0#114#0#34"'*' was not declared in this scope0(4@39"'irc_1037' is not a member of 'pkmHRTF'323095645#2250#132#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#115#0#115#0#0"0(4@39"'irc_1037' is not a member of 'pkmHRTF'323095645#2382#132#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#117#0#117#0#0"0(4@39"'irc_1037' is not a member of 'pkmHRTF'323095645#2514#132#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#119#0#119#0#0"0(4@39"'irc_1037' is not a member of 'pkmHRTF'323095645#2646#132#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#121#0#121#0#0"0(4@39"'irc_1037' is not a member of 'pkmHRTF'323095645#2778#132#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#123#0#123#0#0"0(4@42"'vDSP_vadd' was not declared in this scope323095645#2910#135#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#127#0#127#0#34"'*' was not declared in this scope0(4@42"'vDSP_conv' was not declared in this scope323095645#3206#135#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#137#0#137#0#34"'*' was not declared in this scope0(4@42"'vDSP_vadd' was not declared in this scope323095645#3341#135#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#140#0#140#0#34"'*' was not declared in this scope0(4@37"'swap' was not declared in this scope323095645#3476#130#0(6@79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp323095053#142#0#142#0#34"'*' was not declared in this scope0(0#0#79"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp8630283520#1896"    cd /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/libpkmBinauralizer-generated-files.hmap -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/libpkmBinauralizer-own-target-headers.hmap -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/libpkmBinauralizer-all-target-headers.hmap -iquote /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/libpkmBinauralizer-project-headers.hmap -F/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/Debug -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/Debug/include -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/DerivedSources/x86_64 -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/DerivedSources -include /var/folders/8Z/8Z0GF7oTHzuq9dfBgNCLu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pkmBinauralizer_Prefix-cxfawfjffuxgwhglzvclkorisyqz/pkmBinauralizer_Prefix.pch -c /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer.cp -o /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/Objects-normal/x86_64/pkmBinauralizer.o1#
+
+CCompileC build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/Objects-normal/x86_64/pkmIRCAM_HRTF_DATABASE.o /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/../src/pkmIRCAM_HRTF_DATABASE.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/Objects-normal/x86_64/pkmIRCAM_HRTF_DATABASE.o /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s323095645.121717
+e323095645.703498
+r0
+xCompileC
+xbuild/pkmBinauralizer.build/Debug/pkmBinauralizer.build/Objects-normal/x86_64/pkmIRCAM_HRTF_DATABASE.o
+x/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp:10:
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.h:81: error: expected unqualified-id before '[' token
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp:22: error: expected `}' before '{' token
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp:22: error: too many initializers for 'const pkmHRTF::ircam_hrtf_filter_set'
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp:22: error: expected ',' or ';' before '{' token
+o/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp:1143: error: expected `}' at end of input
+lSLF07#2@95"Compile /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp323095645#323095645#0(811"In file included from /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp:10:/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.h:81: error: expected unqualified-id before '[' token/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp:22: error: expected `}' before '{' token/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp:22: error: too many initializers for 'const pkmHRTF::ircam_hrtf_filter_set'/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp:22: error: expected ',' or ';' before '{' token/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp:1143: error: expected `}' at end of input5(4@40"Expected unqualified-id before '[' token323095645#114#138#2(7@109"In file included from /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp323095645#18446744073709551615#0#0(6@87"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp323094616#10#0#10#0#0"0(13@129"Expected unqualified-id before '[' token in /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.h323095645#18446744073709551615#0#0(6@85"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.h323045082#81#0#81#0#0"0(6@85"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.h323045082#81#0#81#0#19"expected * before *0(4@29"Expected `}' before '{' token323095645#252#129#0(6@87"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp323094616#22#0#22#0#19"expected * before *0(4@64"Too many initializers for 'const pkmHRTF::ircam_hrtf_filter_set'323095645#381#164#0(6@87"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp323094616#22#0#22#0#0"0(4@36"Expected ',' or ';' before '{' token323095645#545#136#0(6@87"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp323094616#22#0#22#0#19"expected * before *0(4@28"Expected `}' at end of input323095645#681#130#0(6@87"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp323094616#1143#0#1143#0#0"0(0#0#87"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp8628385696#1911"    cd /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/libpkmBinauralizer-generated-files.hmap -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/libpkmBinauralizer-own-target-headers.hmap -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/libpkmBinauralizer-all-target-headers.hmap -iquote /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/libpkmBinauralizer-project-headers.hmap -F/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/Debug -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/Debug/include -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/DerivedSources/x86_64 -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/DerivedSources -include /var/folders/8Z/8Z0GF7oTHzuq9dfBgNCLu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pkmBinauralizer_Prefix-cxfawfjffuxgwhglzvclkorisyqz/pkmBinauralizer_Prefix.pch -c /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmIRCAM_HRTF_DATABASE.cpp -o /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/Objects-normal/x86_64/pkmIRCAM_HRTF_DATABASE.o1#
+
+CLd /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/Debug/libpkmBinauralizer.dylib normal x86_64
+r0
+
+CProcessPCH++ /var/folders/8Z/8Z0GF7oTHzuq9dfBgNCLu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pkmBinauralizer_Prefix-cxfawfjffuxgwhglzvclkorisyqz/pkmBinauralizer_Prefix.pch.gch pkmBinauralizer_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+s323095643.953345
+e323095645.121001
+r1
+xProcessPCH++
+x/var/folders/8Z/8Z0GF7oTHzuq9dfBgNCLu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pkmBinauralizer_Prefix-cxfawfjffuxgwhglzvclkorisyqz/pkmBinauralizer_Prefix.pch.gch
+xpkmBinauralizer_Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile pkmBinauralizer_Prefix.pch323095643#323095645#0(0"0(0#0#87"/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer_Prefix.pch8629887488#1749"    cd /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/libpkmBinauralizer-generated-files.hmap -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/libpkmBinauralizer-own-target-headers.hmap -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/libpkmBinauralizer-all-target-headers.hmap -iquote /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/libpkmBinauralizer-project-headers.hmap -F/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/Debug -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/Debug/include -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/DerivedSources/x86_64 -I/Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/build/pkmBinauralizer.build/Debug/pkmBinauralizer.build/DerivedSources -c /Users/pkmital/Coding/pkmIRCAM_HRTF_DATABASE/pkmBinauralizer/pkmBinauralizer_Prefix.pch -o /var/folders/8Z/8Z0GF7oTHzuq9dfBgNCLu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pkmBinauralizer_Prefix-cxfawfjffuxgwhglzvclkorisyqz/pkmBinauralizer_Prefix.pch.gch0#
+

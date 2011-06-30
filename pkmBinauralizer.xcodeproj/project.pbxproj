@@ -1,0 +1,269 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		50149BDA09E781A5002DEE6A /* pkmBinauralizer.h in Headers */ = {isa = PBXBuildFile; fileRef = 50149BD909E781A5002DEE6A /* pkmBinauralizer.h */; };
+		5073E0CB09E734E500EC74B6 /* pkmBinauralizer.cp in Sources */ = {isa = PBXBuildFile; fileRef = 5073E0C409E734A800EC74B6 /* pkmBinauralizer.cp */; };
+		89007CCD13420C59006963DB /* pkmIRCAM_HRTF_DATABASE.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 89007CC813420C59006963DB /* pkmIRCAM_HRTF_DATABASE.cpp */; };
+		89007CCE13420C59006963DB /* pkmIRCAM_HRTF_DATABASE.h in Headers */ = {isa = PBXBuildFile; fileRef = 89007CC913420C59006963DB /* pkmIRCAM_HRTF_DATABASE.h */; };
+		89007CCF13420C59006963DB /* ANN.h in Headers */ = {isa = PBXBuildFile; fileRef = 89007CCB13420C59006963DB /* ANN.h */; };
+		89007CD013420C59006963DB /* libANN.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 89007CCC13420C59006963DB /* libANN.a */; };
+		891D748913421D63008B6915 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 891D748813421D63008B6915 /* Accelerate.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		32BAE0B70371A74B00C91783 /* pkmBinauralizer_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pkmBinauralizer_Prefix.pch; sourceTree = "<group>"; };
+		50149BD909E781A5002DEE6A /* pkmBinauralizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pkmBinauralizer.h; sourceTree = "<group>"; };
+		5073E0C409E734A800EC74B6 /* pkmBinauralizer.cp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; path = pkmBinauralizer.cp; sourceTree = "<group>"; };
+		5073E0C609E734A800EC74B6 /* pkmBinauralizerProj.xcconfig */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text.xcconfig; path = pkmBinauralizerProj.xcconfig; sourceTree = "<group>"; };
+		5073E0C709E734A800EC74B6 /* pkmBinauralizerTarget.xcconfig */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text.xcconfig; path = pkmBinauralizerTarget.xcconfig; sourceTree = "<group>"; };
+		89007CC813420C59006963DB /* pkmIRCAM_HRTF_DATABASE.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = pkmIRCAM_HRTF_DATABASE.cpp; sourceTree = "<group>"; };
+		89007CC913420C59006963DB /* pkmIRCAM_HRTF_DATABASE.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pkmIRCAM_HRTF_DATABASE.h; sourceTree = "<group>"; };
+		89007CCB13420C59006963DB /* ANN.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANN.h; sourceTree = "<group>"; };
+		89007CCC13420C59006963DB /* libANN.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libANN.a; sourceTree = "<group>"; };
+		891D748813421D63008B6915 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
+		D2AAC09D05546B4700DB518D /* libpkmBinauralizer */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = text; path = libpkmBinauralizer; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D2AAC09B05546B4700DB518D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				89007CD013420C59006963DB /* libANN.a in Frameworks */,
+				891D748913421D63008B6915 /* Accelerate.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		034768DDFF38A45A11DB9C8B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D2AAC09D05546B4700DB518D /* libpkmBinauralizer */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0867D691FE84028FC02AAC07 /* pkmBinauralizer */ = {
+			isa = PBXGroup;
+			children = (
+				5073E0CA09E734BC00EC74B6 /* Configuration Files */,
+				08FB77ACFE841707C02AAC07 /* Source */,
+				0867D69AFE84028FC02AAC07 /* External Frameworks and Libraries */,
+				034768DDFF38A45A11DB9C8B /* Products */,
+				891D748813421D63008B6915 /* Accelerate.framework */,
+			);
+			name = pkmBinauralizer;
+			sourceTree = "<group>";
+		};
+		0867D69AFE84028FC02AAC07 /* External Frameworks and Libraries */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "External Frameworks and Libraries";
+			sourceTree = "<group>";
+		};
+		08FB77ACFE841707C02AAC07 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				89007CC813420C59006963DB /* pkmIRCAM_HRTF_DATABASE.cpp */,
+				89007CC913420C59006963DB /* pkmIRCAM_HRTF_DATABASE.h */,
+				89007CCA13420C59006963DB /* ann */,
+				32BAE0B70371A74B00C91783 /* pkmBinauralizer_Prefix.pch */,
+				50149BD909E781A5002DEE6A /* pkmBinauralizer.h */,
+				5073E0C409E734A800EC74B6 /* pkmBinauralizer.cp */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		5073E0CA09E734BC00EC74B6 /* Configuration Files */ = {
+			isa = PBXGroup;
+			children = (
+				5073E0C609E734A800EC74B6 /* pkmBinauralizerProj.xcconfig */,
+				5073E0C709E734A800EC74B6 /* pkmBinauralizerTarget.xcconfig */,
+			);
+			name = "Configuration Files";
+			sourceTree = "<group>";
+		};
+		89007CCA13420C59006963DB /* ann */ = {
+			isa = PBXGroup;
+			children = (
+				89007CCB13420C59006963DB /* ANN.h */,
+				89007CCC13420C59006963DB /* libANN.a */,
+			);
+			path = ann;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D2AAC09905546B4700DB518D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50149BDA09E781A5002DEE6A /* pkmBinauralizer.h in Headers */,
+				89007CCE13420C59006963DB /* pkmIRCAM_HRTF_DATABASE.h in Headers */,
+				89007CCF13420C59006963DB /* ANN.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		D2AAC09C05546B4700DB518D /* pkmBinauralizer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB916008733D950010E9CD /* Build configuration list for PBXNativeTarget "pkmBinauralizer" */;
+			buildPhases = (
+				D2AAC09905546B4700DB518D /* Headers */,
+				D2AAC09B05546B4700DB518D /* Frameworks */,
+				D2AAC09A05546B4700DB518D /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = pkmBinauralizer;
+			productName = libpkmBinauralizer;
+			productReference = D2AAC09D05546B4700DB518D /* libpkmBinauralizer */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0867D690FE84028FC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB916408733D950010E9CD /* Build configuration list for PBXProject "pkmBinauralizer" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 0867D691FE84028FC02AAC07 /* pkmBinauralizer */;
+			productRefGroup = 034768DDFF38A45A11DB9C8B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D2AAC09C05546B4700DB518D /* pkmBinauralizer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D2AAC09A05546B4700DB518D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5073E0CB09E734E500EC74B6 /* pkmBinauralizer.cp in Sources */,
+				89007CCD13420C59006963DB /* pkmIRCAM_HRTF_DATABASE.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB916108733D950010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5073E0C709E734A800EC74B6 /* pkmBinauralizerTarget.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = pkmBinauralizer_Prefix.pch;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../src/ann\"",
+					"\"$(SRCROOT)/ann\"",
+				);
+				MACH_O_TYPE = staticlib;
+				STANDARD_C_PLUS_PLUS_LIBRARY_TYPE = static;
+			};
+			name = Debug;
+		};
+		1DEB916208733D950010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5073E0C709E734A800EC74B6 /* pkmBinauralizerTarget.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = pkmBinauralizer_Prefix.pch;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../src/ann\"",
+					"\"$(SRCROOT)/ann\"",
+				);
+				STRIP_INSTALLED_PRODUCT = YES;
+				STRIP_STYLE = "non-global";
+			};
+			name = Release;
+		};
+		1DEB916508733D950010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5073E0C609E734A800EC74B6 /* pkmBinauralizerProj.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				STANDARD_C_PLUS_PLUS_LIBRARY_TYPE = static;
+			};
+			name = Debug;
+		};
+		1DEB916608733D950010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5073E0C609E734A800EC74B6 /* pkmBinauralizerProj.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB916008733D950010E9CD /* Build configuration list for PBXNativeTarget "pkmBinauralizer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB916108733D950010E9CD /* Debug */,
+				1DEB916208733D950010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB916408733D950010E9CD /* Build configuration list for PBXProject "pkmBinauralizer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB916508733D950010E9CD /* Debug */,
+				1DEB916608733D950010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0867D690FE84028FC02AAC07 /* Project object */;
+}
