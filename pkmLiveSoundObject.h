@@ -85,10 +85,10 @@
  *
  
  // in header
- pkmSoundObject *mySound;
+ pkmGPSSoundObject *mySound;
  
  // in construction
- mySound = new pkmSoundObject();
+ mySound = new pkmGPSSoundObject();
  mySound->encodeAudio(mySoundData, mySoundSampleLength);
  
  // in listener update
@@ -103,10 +103,10 @@
  */
 #pragma once
 
-#include "pkmBinauralizer.h"
+#include "pkmBinauralSoundObject.h"
 #include "ofMain.h"
 #include "pkmRecorder.h"
-#include "pkmSoundObject.h"
+#include "pkmGPSSoundObject.h"
 
 // change this when in release mode
 #ifndef DEBUG
@@ -119,7 +119,7 @@
 
 typedef ofPoint CartesianPoint;
 
-class pkmLiveSoundObject : public pkmSoundObject
+class pkmLiveSoundObject : public pkmGPSSoundObject
 {
 public:
 	
@@ -315,7 +315,7 @@ protected:
 		return;
 	}
 	
-	pkmBinauralizer					binauralizer;
+	pkmBinauralSoundObject			binauralizer;
 	
 	CartesianPoint					relative_cartposition;
 	CartesianPoint					absolute_cartposition;

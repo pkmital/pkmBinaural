@@ -1,0 +1,136 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = D2AAC09C05546B4700DB518D /* pkmBinauralizer */;
+		addToTargets = (
+			D2AAC09C05546B4700DB518D /* pkmBinauralizer */,
+		);
+		codeSenseManager = 89007BB61340FEEA006963DB /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					255,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					215,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323100034;
+			PBXWorkspaceStateSaveDate = 323100034;
+		};
+		sourceControlManager = 89007BB51340FEEA006963DB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32BAE0B70371A74B00C91783 /* pkmBinauralizer_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {878, 759}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 132}";
+		};
+	};
+	50149BD909E781A5002DEE6A /* pkmBinauralizer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {878, 1128}}";
+			sepNavSelRange = "{1423, 0}";
+			sepNavVisRange = "{402, 1585}";
+		};
+	};
+	5073E0C409E734A800EC74B6 /* pkmBinauralizer.cp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {878, 2143}}";
+			sepNavSelRange = "{5288, 0}";
+			sepNavVisRange = "{3054, 2272}";
+		};
+	};
+	5073E0C609E734A800EC74B6 /* pkmBinauralizerProj.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {878, 759}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+	5073E0C709E734A800EC74B6 /* pkmBinauralizerTarget.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {878, 759}}";
+			sepNavSelRange = "{38, 0}";
+			sepNavVisRange = "{0, 38}";
+		};
+	};
+	89007BB51340FEEA006963DB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	89007BB61340FEEA006963DB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	89007CC813420C59006963DB /* pkmIRCAM_HRTF_DATABASE.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {878, 759}}";
+			sepNavSelRange = "{134, 0}";
+			sepNavVisRange = "{0, 134}";
+		};
+	};
+	89007CC913420C59006963DB /* pkmIRCAM_HRTF_DATABASE.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{3257, 1999733}\";\n            s = 0;\n        },\n                {\n            r = \"{2003031, 7359}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 2010395}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {3092, 1199}}";
+			sepNavSelRange = "{3262, 0}";
+			sepNavVisRange = "{1564, 1741}";
+		};
+	};
+	89007CCB13420C59006963DB /* ANN.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {878, 10993}}";
+			sepNavSelRange = "{16401, 62}";
+			sepNavVisRange = "{22749, 2182}";
+		};
+	};
+	D2AAC09C05546B4700DB518D /* pkmBinauralizer */ = {
+		activeExec = 0;
+	};
+}
